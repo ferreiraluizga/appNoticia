@@ -7,3 +7,4 @@ Aplicativo desenvolvido em Kotlin e interface com Jetpack Compose
 
 ## Notas de versão
 - v1: Interface inicial do aplicativo
+- v2: Adição de scroll no app e noticias reais (a fim de construir uma base de dados)
